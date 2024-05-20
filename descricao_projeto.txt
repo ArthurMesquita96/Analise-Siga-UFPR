@@ -1,0 +1,5 @@
+Repositório: Este repositório é um repositório teste criado para um trabalho da disciplina de Infraestrutura Computacional referente à Git. Link: https://github.com/ArthurMesquita96/Analise-Siga-UFPR
+
+Título do projeto: Análise do Efeito do modelo presencial, EDA e Híbrido de ensino na disciplina de Algoritmos 
+
+Participantes: Arthur Soares Mesquita
